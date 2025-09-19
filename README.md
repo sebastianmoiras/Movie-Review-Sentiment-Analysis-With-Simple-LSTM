@@ -1,5 +1,7 @@
 # Movie Review - Sentiment Analysis with simple LSTM
 
+Access the data here: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 Project Overview
 
 This project is a Sentiment Analysis classifier for movie reviews, aiming to predict whether a review is positive or negative.
